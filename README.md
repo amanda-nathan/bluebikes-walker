@@ -2,6 +2,10 @@
 
 A real-time BlueBikes station finder with walking distance calculations and directional search capabilities.
 
+## 🚀 Try the App
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://boston-bluebikes-walker.streamlit.app/?embed_options=dark_theme)
+
+
 ## ✨ Features
 
 ### **Location Search**
