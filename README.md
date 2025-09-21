@@ -153,7 +153,7 @@ Contributions welcome! Areas for improvement:
 - Historical availability data
 - Bike lane routing preferences
 
-## 📧 Support
+## Support
 
 For issues or questions, please open a GitHub issue with:
 - Error messages (if any)
